@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://weiweiyeh.github.io/csb-xbd0v/static/css/main.f81e2808.chunk.css",
+    "main.js": "https://weiweiyeh.github.io/csb-xbd0v/static/js/main.fb085eab.chunk.js",
+    "main.js.map": "https://weiweiyeh.github.io/csb-xbd0v/static/js/main.fb085eab.chunk.js.map",
+    "runtime-main.js": "https://weiweiyeh.github.io/csb-xbd0v/static/js/runtime-main.7da973a1.js",
+    "runtime-main.js.map": "https://weiweiyeh.github.io/csb-xbd0v/static/js/runtime-main.7da973a1.js.map",
+    "static/js/2.fc2639c6.chunk.js": "https://weiweiyeh.github.io/csb-xbd0v/static/js/2.fc2639c6.chunk.js",
+    "static/js/2.fc2639c6.chunk.js.map": "https://weiweiyeh.github.io/csb-xbd0v/static/js/2.fc2639c6.chunk.js.map",
+    "index.html": "https://weiweiyeh.github.io/csb-xbd0v/index.html",
+    "static/css/main.f81e2808.chunk.css.map": "https://weiweiyeh.github.io/csb-xbd0v/static/css/main.f81e2808.chunk.css.map",
+    "static/js/2.fc2639c6.chunk.js.LICENSE.txt": "https://weiweiyeh.github.io/csb-xbd0v/static/js/2.fc2639c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7da973a1.js",
+    "static/js/2.fc2639c6.chunk.js",
+    "static/css/main.f81e2808.chunk.css",
+    "static/js/main.fb085eab.chunk.js"
+  ]
+}
